@@ -32,9 +32,5 @@ pip install -r requirements.txt
 streamlit run Home.py
 ```
 
-## Notes
-- If `potato_model.keras` is larger than 100MB, use Git LFS to upload it.
-- The `venv/` folder is intentionally ignored by Git.
-
 ## Author
-Your Name Here
+Anjalika Wijesiri
